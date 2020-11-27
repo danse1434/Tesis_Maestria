@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.4)  4 JUN 2020 23:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.4)  2 JUL 2020 22:51
 entering extended mode
 **./PlantillaTesisMSc.tex
 (PlantillaTesisMSc.tex
@@ -30,12 +30,12 @@ Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             for `toc' on input line 136.
 Package tocbasic Info: defining new hook before heading of `' on input line 166
 3.
-Package scrbook Info: You've used standard option `12pt'.
+Package scrbook Info: You've used standard option `11pt'.
 (scrbook)             This is correct!
-(scrbook)             Internally I'm using `fontsize=12pt'.
+(scrbook)             Internally I'm using `fontsize=11pt'.
 (scrbook)             If you'd like to set the option with \KOMAoptions,
-(scrbook)             you'd have to use `fontsize=12pt' there
-(scrbook)             instead of `12pt', too.
+(scrbook)             you'd have to use `fontsize=11pt' there
+(scrbook)             instead of `11pt', too.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo"
 File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
@@ -53,11 +53,11 @@ Class scrbook Info: You've used standard option `openany'.
 (scrbook)           If you'd like to set the option with \KOMAoptions,
 (scrbook)           you'd have to use `open=any' there
 (scrbook)           instead of `openany', too.
-Class scrbook Info: File `scrsize12pt.clo' used to setup font sizes on input li
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
 ne 2331.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize12pt.clo"
-File: scrsize12pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (12pt
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
+File: scrsize11pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (11pt
 )
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
@@ -80,21 +80,21 @@ Package typearea Info: With paper sizes other than (almost) `A4' predefined
 
 DIV calculation for typearea with good linewidth.
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 8
+(typearea)             DIV  = 7
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 614.295pt
-(typearea)              \textwidth      = 383.9344pt
-(typearea)              DIV departure   = 1%
-(typearea)              \evensidemargin = 81.30374pt
-(typearea)              \oddsidemargin  = 4.51688pt
+(typearea)              \textwidth      = 351.02573pt
+(typearea)              DIV departure   = 3%
+(typearea)              \evensidemargin = 103.24286pt
+(typearea)              \oddsidemargin  = 15.48643pt
 (typearea)             \paperheight     = 794.96999pt
-(typearea)              \textheight     = 505.0pt
-(typearea)              \topmargin      = -12.77374pt
-(typearea)              \headheight     = 18.125pt
-(typearea)              \headsep        = 21.75pt
-(typearea)              \topskip        = 12.0pt
-(typearea)              \footskip       = 50.75pt
-(typearea)              \baselineskip   = 14.5pt
+(typearea)              \textheight     = 459.8002pt
+(typearea)              \topmargin      = 3.89714pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
 (typearea)              on input line 1706.
 )
 \c@part=\count81
@@ -126,12 +126,7 @@ Package tocbasic Info: omitting babel extension for `lot'
 \c@table=\count89
 Class scrbook Info: Redefining `\numberline' on input line 6445.
 \bibindent=\dimen103
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2018/04/06 v1.3b Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
-)
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+) (estructura.tex ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2018/11/13 3.27 The Babel package
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
@@ -155,10 +150,9 @@ File: babel.def 2018/11/13 3.27 Babel common definitions
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
 \bbl@dirlevel=\count91
 )
-\es@quottoks=\toks17
+\es@quottoks=\toks15
 \es@quotdepth=\count92
 Package babel Info: Making " an active character on input line 561.
-Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
@@ -174,7 +168,7 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (scrbook)              `\addtokomafont' for the page style elements need
 (scrbook)              explicite user intervention to work.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `fancyhdr' on input line 6.
+(scrbook)              package `fancyhdr' on input line 8.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
@@ -250,7 +244,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks16
 \ex@=\dimen117
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
@@ -280,21 +274,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \dotsspace@=\muskip10
 \c@parentequation=\count110
 \dspbrk@lvl=\count111
-\tag@help=\toks19
+\tag@help=\toks17
 \row@=\count112
 \column@=\count113
 \maxfields@=\count114
-\andhelp@=\toks20
+\andhelp@=\toks18
 \eqnshift@=\dimen120
 \alignsep@=\dimen121
 \tagshift@=\dimen122
 \tagwidth@=\dimen123
 \totwidth@=\dimen124
 \lineht@=\dimen125
-\@envbody=\toks21
+\@envbody=\toks19
 \multlinegap=\skip68
 \multlinetaggap=\skip69
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
@@ -304,7 +298,7 @@ Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box32
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amscd.sty"
 Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
-\athelp@=\toks23
+\athelp@=\toks21
 \minaw@=\dimen126
 \bigaw@=\dimen127
 \minCDarrowwidth=\dimen128
@@ -313,9 +307,9 @@ Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
 ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
-\float@exts=\toks24
+\float@exts=\toks22
 \float@box=\box33
-\@float@everytoks=\toks25
+\@float@everytoks=\toks23
 \@floatcapt=\box34
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
@@ -329,7 +323,7 @@ Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen129
 \ar@mcellbox=\box35
 \extrarowheight=\dimen130
-\NC@list=\toks26
+\NC@list=\toks24
 \extratabsurround=\skip70
 \backup@length=\skip71
 \ar@cellbox=\box36
@@ -340,7 +334,7 @@ Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \TX@target=\dimen134
 \TX@delta=\dimen135
 \TX@cols=\count116
-\TX@ftn=\toks27
+\TX@ftn=\toks25
 )
 (C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
@@ -378,9 +372,9 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LT@rows=\count123
 \c@LT@tables=\count124
 \c@LT@chunks=\count125
-\LT@p@ftn=\toks28
+\LT@p@ftn=\toks26
 )
-Class scrbook Info: longtable captions redefined on input line 18.
+Class scrbook Info: longtable captions redefined on input line 20.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
@@ -392,44 +386,182 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rotFPtop=\skip82
 \rotFPbot=\skip83
 \rot@float@box=\box41
-\rot@mess@toks=\toks29
-) (Befehle.sty)
+\rot@mess@toks=\toks27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\avant.sty"
+Package: avant 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 38.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
+Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+\MT@toks=\toks28
+\MT@count=\count127
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen139
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count128
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pdftex.
+def
+File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 913.
+LaTeX Info: Redefining \lslig on input line 913.
+\MT@outer@space=\skip84
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
+File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks29
+\inpenc@posthook=\toks30
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen140
+\captionmargin@=\dimen141
+\captionwidth=\dimen142
+\caption@tempdima=\dimen143
+\caption@indent=\dimen144
+\caption@parindent=\dimen145
+\caption@hangindent=\dimen146
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count129
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+\c@KVtest=\count130
+\sf@farskip=\skip85
+\sf@captopadj=\dimen147
+\sf@capskip=\skip86
+\sf@nearskip=\skip87
+\sf@top=\skip88
+\sf@bottom=\skip89
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip90
+\bibsep=\skip91
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count131
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count132
+\calc@Bcount=\count133
+\calc@Adimen=\dimen148
+\calc@Bdimen=\dimen149
+\calc@Askip=\skip92
+\calc@Bskip=\skip93
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count134
+\calc@Cskip=\skip94
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `PlantillaTesisMSc.idx'.
+
+
+Writing index file PlantillaTesisMSc.idx
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count135
+\Gm@cntv=\count136
+\c@Gm@tempcnt=\count137
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks31
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))) (Befehle.sty)
 (PlantillaTesisMSc.aux (HojaTitulo/HojaTituloMSc.aux)
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
- (Kap1/Kap1.aux)
-(Kap2/Kap2.aux) (Kap3/Kap3.aux) (Kap4/Kap4.aux) (Kap5/Kap5.aux) (Kap6/Kap6.aux)
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ (Cap1/Cap1.aux)
+(Cap2/Cap2.aux) (Cap3/Cap3.aux) (Cap4/Cap4.aux) (Cap5/Cap5.aux) (Cap6/Cap6.aux)
 (Anexos/Anexos.aux))
 \openout1 = `PlantillaTesisMSc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 5.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
 
 (C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
-\scratchdimen=\dimen139
+\scratchcounter=\count138
+\scratchdimen=\dimen158
 \scratchbox=\box42
-\nofMPsegments=\count128
-\nofMParguments=\count129
-\everyMPshowfont=\toks30
-\MPscratchCnt=\count130
-\MPscratchDim=\dimen140
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks31
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen159
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks33
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -461,10 +593,6 @@ Package ifluatex Info: LuaTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
@@ -477,23 +605,83 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+LaTeX Info: Redefining \microtypecontext on input line 5.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot twoside heightrounded 
+* h-part:(L,W,R)=(102.43008pt, 439.59511pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=439.59511pt
+* \textheight=568.60025pt
+* \oddsidemargin=30.1601pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-0.00018pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=0.0pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 \openout2 = `HojaTitulo/HojaTituloMSc.aux'.
 
-
 (HojaTitulo/HojaTituloMSc.tex
-<HojaTitulo/EscudoUN.png, id=1, 202.356pt x 82.8696pt>
-File: HojaTitulo/EscudoUN.png Graphic file (type png)
-<use HojaTitulo/EscudoUN.png>
-Package pdftex.def Info: HojaTitulo/EscudoUN.png  used on input line 6.
-(pdftex.def)             Requested size: 202.3555pt x 82.86937pt.
+<HojaTitulo/Logo_Escudo.pdf, id=1, 301.125pt x 301.125pt>
+File: HojaTitulo/Logo_Escudo.pdf Graphic file (type pdf)
+<use HojaTitulo/Logo_Escudo.pdf>
+Package pdftex.def Info: HojaTitulo/Logo_Escudo.pdf  used on input line 7.
+(pdftex.def)             Requested size: 120.44786pt x 120.44786pt.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 11.
  [1
 
 
 {C:/Users/ACER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./HojaTitulo
-/EscudoUN.png>] [2
+/Logo_Escudo.pdf>] [2
 
 
-] [3] [4
+]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 25.
+ [3] [4
 
 
 ]
@@ -531,10 +719,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--58
 
  []
 
+(C:\Users\ACER\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
 [5] [6
 
 
 ]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 66.
+
 Underfull \hbox (badness 10000) in paragraph at lines 64--69
 
  []
@@ -588,22 +783,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 95--63
+Underfull \hbox (badness 10000) in paragraph at lines 95--7
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--63
+Underfull \hbox (badness 10000) in paragraph at lines 95--7
 
  []
 
-[9] [10] (PlantillaTesisMSc.lof
+[9] [10]
+Package tocbasic Info: character protrusion at lof deactivated on input line 19
+.
+ (PlantillaTesisMSc.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 )
-\tf@lof=\write3
-\openout3 = `PlantillaTesisMSc.lof'.
+\tf@lof=\write4
+\openout4 = `PlantillaTesisMSc.lof'.
 
  [11
 
@@ -613,21 +811,24 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 ] [12
 
 
-] (PlantillaTesisMSc.lot
+]
+Package tocbasic Info: character protrusion at lot deactivated on input line 23
+.
+ (PlantillaTesisMSc.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
 )
-\tf@lot=\write4
-\openout4 = `PlantillaTesisMSc.lot'.
+\tf@lot=\write5
+\openout5 = `PlantillaTesisMSc.lot'.
 
  [1
 
 ]
-\openout2 = `Kap1/Kap1.aux'.
+\openout2 = `Cap1/Cap1.aux'.
 
 
-(Kap1/Kap1.tex
+(Cap1/Cap1.tex
 chapter 1.
 
 Class scrbook Warning: \float@addtolists detected!
@@ -645,52 +846,47 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              deprecated \float@addtolist interface .
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
 
 [2
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 16--84
+])
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
 
 [3]
-\openout2 = `Kap2/Kap2.aux'.
+\openout2 = `Cap2/Cap2.aux'.
 
- (Kap2/Kap2.tex
+ (Cap2/Cap2.tex
 chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -707,6 +903,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 9.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
@@ -722,9 +920,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
 
 ]
-\openout2 = `Kap3/Kap3.aux'.
+\openout2 = `Cap3/Cap3.aux'.
 
- (Kap3/Kap3.tex
+ (Cap3/Cap3.tex
 chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -737,11 +935,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
  []
 
 
-Overfull \hbox (2.53162pt too wide) in paragraph at lines 7--10
-[]\OT1/cmr/m/n/12 , [], [], []]. 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
  []
@@ -751,34 +944,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
 [5
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-<Kap3/FrutoSp.png, id=67, 391.2216pt x 273.6624pt>
-File: Kap3/FrutoSp.png Graphic file (type png)
-<use Kap3/FrutoSp.png>
-Package pdftex.def Info: Kap3/FrutoSp.png  used on input line 22.
+<Cap3/FrutoSp.png, id=70, 391.2216pt x 273.6624pt>
+File: Cap3/FrutoSp.png Graphic file (type png)
+<use Cap3/FrutoSp.png>
+Package pdftex.def Info: Cap3/FrutoSp.png  used on input line 22.
 (pdftex.def)             Requested size: 391.22064pt x 273.66171pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
 
+Underfull \vbox (badness 2547) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
+ [6 <./Cap3/FrutoSp.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
@@ -788,9 +983,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-LaTeX Info: Redefining \. on input line 32.
-LaTeX Info: Redefining \% on input line 32.
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
@@ -800,9 +993,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
-[7 <./Kap3/FrutoSp.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
@@ -817,20 +1008,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 69--86
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+[7])
+Underfull \hbox (badness 10000) in paragraph at lines 69--34
 
  []
 
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 [8]
-\openout2 = `Kap4/Kap4.aux'.
+\openout2 = `Cap4/Cap4.aux'.
 
- (Kap4/Kap4.tex
+ (Cap4/Cap4.tex
 chapter 4.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2--87
+Underfull \hbox (badness 10000) in paragraph at lines 2--35
 
  []
 
@@ -839,12 +1032,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--87
 
 
 ]
-\openout2 = `Kap5/Kap5.aux'.
+\openout2 = `Cap5/Cap5.aux'.
 
- (Kap5/Kap5.tex
+ (Cap5/Cap5.tex
 chapter 5.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 2--88
+Underfull \hbox (badness 10000) in paragraph at lines 2--36
 
  []
 
@@ -853,9 +1046,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--88
 
 
 ]
-\openout2 = `Kap6/Kap6.aux'.
+\openout2 = `Cap6/Cap6.aux'.
 
- (Kap6/Kap6.tex
+ (Cap6/Cap6.tex
 chapter 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -863,7 +1056,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 6--89
+Underfull \hbox (badness 10000) in paragraph at lines 6--37
 
  []
 
@@ -926,43 +1119,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]|\OT1/cmr/m/n/12 American Psy-cho-lo-gi-cal As-so-cia-tion
+Overfull \hbox (12.3962pt too wide) in paragraph at lines 17--29
+ [] 
  []
 
-[14
+) [14
 
-]) [15] (PlantillaTesisMSc.bbl) [16
+] (PlantillaTesisMSc.bbl
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 10.
+) [15
 
 
 ] (PlantillaTesisMSc.aux
 (HojaTitulo/HojaTituloMSc.aux)
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
- (Kap1/Kap1.aux) (Kap2/Kap2.aux) (Kap3/Kap3.aux)
-(Kap4/Kap4.aux) (Kap5/Kap5.aux) (Kap6/Kap6.aux) (Anexos/Anexos.aux)) ) 
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ (Cap1/Cap1.aux) (Cap2/Cap2.aux) (Cap3/Cap3.aux)
+(Cap4/Cap4.aux) (Cap5/Cap5.aux) (Cap6/Cap6.aux) (Anexos/Anexos.aux)) ) 
 Here is how much of TeX's memory you used:
- 6305 strings out of 492969
- 101740 string characters out of 3135850
- 288027 words of memory out of 3000000
- 9983 multiletter control sequences out of 15000+200000
- 12122 words of font info for 43 fonts, out of 3000000 for 9000
+ 10416 strings out of 492969
+ 169618 string characters out of 3135850
+ 387532 words of memory out of 3000000
+ 13808 multiletter control sequences out of 15000+200000
+ 69129 words of font info for 193 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 51i,14n,66p,9098b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on PlantillaTesisMSc.pdf (28 pages, 303110 bytes).
+ 53i,14n,66p,9098b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Progr
+am Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro
+8a.pfb>
+Output written on PlantillaTesisMSc.pdf (27 pages, 1094457 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38411 words of extra memory for PDF output out of 42996 (max. 10000000)
 
